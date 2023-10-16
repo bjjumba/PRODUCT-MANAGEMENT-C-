@@ -1,0 +1,17 @@
+2023-07-06 16:56:11.452 +03:00 [INF] Now listening on: https://localhost:7124
+2023-07-06 16:56:11.533 +03:00 [INF] Now listening on: http://localhost:5066
+2023-07-06 16:56:11.541 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-06 16:56:11.542 +03:00 [INF] Hosting environment: Development
+2023-07-06 16:56:11.544 +03:00 [INF] Content root path: D:\DOTNET\ProductManagent\ProductManagement.API\
+2023-07-06 16:56:12.760 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 529.3970 ms
+2023-07-06 16:56:13.872 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 145.4802 ms
+2023-07-06 16:57:12.954 +03:00 [DBG] User `1 added`
+2023-07-06 16:57:12.965 +03:00 [INF] User `1 added `
+2023-07-06 16:57:12.999 +03:00 [INF] HTTP POST /v2/api/Product/Register responded 200 in 1301.2657 ms
+2023-07-06 17:17:22.831 +03:00 [INF] Now listening on: https://localhost:7124
+2023-07-06 17:17:22.868 +03:00 [INF] Now listening on: http://localhost:5066
+2023-07-06 17:17:22.875 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-06 17:17:22.877 +03:00 [INF] Hosting environment: Development
+2023-07-06 17:17:22.878 +03:00 [INF] Content root path: D:\DOTNET\ProductManagent\ProductManagement.API\
+2023-07-06 17:17:23.341 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 242.9976 ms
+2023-07-06 17:17:23.905 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 135.3067 ms
